@@ -1,0 +1,12 @@
+{
+  "name" : "Nova Scotia + PEI",
+  "id" : "",
+  "version" : "1.0",
+  "supported_game_version" : "",
+  "short_description" : "Adds Nova Scotia and PEI to the game.",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}

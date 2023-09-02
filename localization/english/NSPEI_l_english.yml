@@ -1,0 +1,7 @@
+﻿l_english:
+ #States
+ STATE_NOVA_SCOTIA: "Nova Scotia"
+ STATE_PRINCE_EDWARD_ISLAND: "Prince Edward Island"
+ #Nations/releasables
+ PEI: "Prince Edward Island"
+ PEI_ADJ: "Prince Edward Islander"

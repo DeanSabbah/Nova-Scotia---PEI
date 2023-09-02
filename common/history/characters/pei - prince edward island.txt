@@ -1,0 +1,18 @@
+CHARACTERS = {
+	c:PEI = {
+		create_character = {
+			first_name = "John"
+			last_name = "Harvey"
+			historical = yes
+			ruler = yes
+			ig_leader = yes
+			birth_date = 1778.4.23
+			culture=cu:british
+			interest_group = ig_armed_forces
+			ideology = ideology_moderate
+			traits = {
+				tactful
+			}
+		}	
+	}
+}

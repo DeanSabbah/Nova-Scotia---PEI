@@ -1069,11 +1069,15 @@
 		region_state:NVS = {
 			create_pop = {
 				culture = anglo_canadian
-				size = 196573
+				size = 131703
 			}
 			create_pop = {
 				culture = afro_american
 				size = 3333
+			}
+			create_pop = {
+				culture = franco_canadian
+				size = 64870
 			}
 		}
 	}

@@ -2221,7 +2221,7 @@ NVS = {
 	
 	tier = principality
 	
-	cultures = { anglo_canadian }
+	cultures = { anglo_canadian francophone_canadian }
 	capital = STATE_NOVA_SCOTIA
 }
 

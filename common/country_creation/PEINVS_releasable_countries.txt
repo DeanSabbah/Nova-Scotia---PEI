@@ -1,0 +1,7 @@
+﻿PEI = {
+	provinces = {
+		x70C040
+	}
+
+	ai_will_do = { always = no }
+}

@@ -1,0 +1,14 @@
+﻿POPS = {
+	s:STATE_PRINCE_EDWARD_ISLAND = {
+		region_state:PEI = {
+			create_pop = {
+				culture = anglo_canadian
+				size = 76573
+			}
+			create_pop = {
+				culture = afro_american
+				size = 3333
+			}
+		}
+	}
+}

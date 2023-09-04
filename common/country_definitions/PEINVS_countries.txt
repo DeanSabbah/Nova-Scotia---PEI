@@ -1,0 +1,10 @@
+﻿PEI = {
+	color = { 255  211  56 }
+	
+	country_type = colonial
+	
+	tier = principality
+	
+	cultures = { anglo_canadian }
+	capital = STATE_PRINCE_EDWARD_ISLAND
+}

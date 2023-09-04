@@ -1,0 +1,9 @@
+﻿DIPLOMACY = {
+	c:GBR = {
+		# Prince Edward Island
+		create_diplomatic_pact = {
+			country = c:PEI
+			type = puppet
+		}
+	}
+}

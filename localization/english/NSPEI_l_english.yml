@@ -5,3 +5,5 @@
  #Nations/releasables
  PEI: "Prince Edward Island"
  PEI_ADJ: "Prince Edward Islander"
+ #Stratigic regions
+ region_atlantic_canada: "Atlantic Canada"

@@ -11,7 +11,7 @@
     arable_land = 60
     arable_resources = { "bg_livestock_ranches" }
     capped_resources = {
-        bg_coal_mining = 26
+        bg_coal_mining = 38
         bg_lead_mining = 32
         bg_logging = 8
         bg_fishing = 8
@@ -20,7 +20,7 @@
 }
 
 STATE_NOVA_SCOTIA = {
-    id = 741
+    id = 800
     subsistence_building = "building_subsistence_fishing_villages"
     provinces = { "x085C83" "x380F20" "x406FBA" "x63E1C4" "x6B5822" "x8060C0" "x80AA26" "x8CFA32" "x905458" "x99CA75" "xB95DB3" "xC060C0" "xCA0399" "xE4892F" "xEAFA99" "xEC5B4B" "xF04040" "xF95D47" }
     traits = { "state_trait_halifax_harbor" }
@@ -30,10 +30,10 @@ STATE_NOVA_SCOTIA = {
     mine = "x63E1C4"
     wood = "x6B5822"
     arable_land = 56
-    arable_resources = { "bg_livestock_ranches" }
+    arable_resources = { "bg_livestock_ranches" "bg_fishing" }
     capped_resources = {
         bg_coal_mining = 28
-        bg_lead_mining = 32
+        bg_lead_mining = 26
         bg_logging = 8
         bg_fishing = 8
     }
@@ -41,7 +41,7 @@ STATE_NOVA_SCOTIA = {
 }
 
 STATE_PRINCE_EDWARD_ISLAND = {
-    id = 749
+    id = 801
     subsistence_building = "building_subsistence_farms"
     provinces = { "x70C040" }
     traits = { "state_trait_halifax_harbor" }
@@ -51,7 +51,7 @@ STATE_PRINCE_EDWARD_ISLAND = {
     mine = "x70C040"
     wood = "x70C040"
     arable_land = 28
-    arable_resources = { "bg_livestock_ranches" }
+    arable_resources = { "bg_livestock_ranches" "bg_fishing" }
     capped_resources = {
         bg_coal_mining = 12
         bg_lead_mining = 10

@@ -8,3 +8,23 @@
 	cultures = { anglo_canadian }
 	capital = STATE_PRINCE_EDWARD_ISLAND
 }
+NVS = {
+	color = { 148 205 135 }
+	
+	country_type = colonial
+	
+	tier = principality
+	
+	cultures = { anglo_canadian franco_canadian }
+	capital = STATE_NOVA_SCOTIA
+}
+NBS = {
+	color = { 235 196 128 }
+	
+	country_type = colonial
+	
+	tier = principality
+	
+	cultures = { anglo_canadian franco_canadian }
+	capital = STATE_NEW_BRUNSWICK
+}

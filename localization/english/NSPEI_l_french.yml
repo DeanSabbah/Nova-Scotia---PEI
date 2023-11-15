@@ -1,0 +1,9 @@
+﻿l_french:
+ #States
+ STATE_NOVA_SCOTIA: "Nouvelle Écosse"
+ STATE_PRINCE_EDWARD_ISLAND: "L'île du Prince Édward"
+ #Nations/releasables
+ PEI: "L'île du Prince Édward"
+ PEI_ADJ: "Prince-Édouardien"
+ #Stratigic regions
+ region_atlantic_canada: "Canada Atlantique"

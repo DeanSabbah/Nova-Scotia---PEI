@@ -3,7 +3,7 @@
 		create_state = {
 			country = c:NBS
 			owned_provinces = { 
-				"x082153" "x20CF66" "x326F36" "x484A09" "x493CD4" "x4D9EEE" "x5A0CA8" "x62FC6A" "x66DFE7" "x7040C0" "x70A0CE" "x71A015" "x740012" "x8E553E" "x8ED253" "xBB0F05" "xC91FD7" "xD090A6" "xDE0FD5" "xEE2FFF" "xF01C37" }
+				x082153 x20CF66 x326F36 x484A09 x493CD4 x4D9EEE x5A0CA8 x62FC6A x66DFE7 x7040C0 x70A0CE x71A015 x740012 x8E553E x8ED253 xBB0F05 xC91FD7 xD090A6 xDE0FD5 xEE2FFF xF01C37 }
 		}
 		add_homeland = anglo_canadian
 		add_homeland = franco_canadian
@@ -12,7 +12,7 @@
 		create_state = {
 			country = c:NVS
 			owned_provinces = {
-				"x085C83" "x380F20" "x406FBA" "x63E1C4" "x6B5822" "x8060C0" "x80AA26" "x8CFA32" "x905458" "x99CA75" "xB95DB3" "xC060C0" "xCA0399" "xE4892F" "xEAFA99" "xEC5B4B" "xF04040" "xF95D47" }
+				x085C83 x380F20 x406FBA x63E1C4 x6B5822 x8060C0 x80AA26 x8CFA32 x905458 x99CA75 xB95DB3 xC060C0 xCA0399 xE4892F xEAFA99 xEC5B4B xF04040 xF95D47 }
 		}
 		add_homeland = anglo_canadian
 		add_homeland = franco_canadian
@@ -20,10 +20,10 @@
 	s:STATE_PRINCE_EDWARD_ISLAND = {
 		create_state = {
 			country = c:PEI
-			owned_provinces = { x70C040
+			owned_provinces = { 
+				x70C040
 			}
 		}
 		add_homeland = anglo_canadian
-		add_homeland = franco_canadian
 	}
 }
